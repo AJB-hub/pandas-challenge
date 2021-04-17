@@ -5,7 +5,7 @@
 <h2>
     Player Count
 </h2>
-<p>
+    <p>
     Heroes of Pymoli has 576 players which use the in-game Marketplace.
     </p>
 <h2>
@@ -32,12 +32,12 @@
 <h2>
     Age Demographics
 </h2>
-<p>
+    <p>
     The age range of players that the most fall into is 22 to 26 years old, with 17 to 21 being a close second. If we want to better market to our customers, these would be the ages to target. 
-    <img src='./Tables/AgePercentage.png'> </img>
-    <img src='./Tables/AgePurchasing.png'> </img>
+        <img src='./Tables/AgePercentage.png'> </img>
+        <img src='./Tables/AgePurchasing.png'> </img>
     
-</p>
+    </p>
 <h2>
     Top Spenders
 </h2>    
