@@ -2,9 +2,6 @@
 <html>
 
 
-<h3>
-    pandas-challenge
-
 <h2>
     Player Count
 <p>
@@ -34,9 +31,11 @@
 <h2>
     Age Demographics
 </h2>
+<p>
+    The age range of players that the most fall into is 22 to 26 years old, with 17 to 21 being a close second. If we want to better market to our customers, these would be the ages to target. 
     <img src='./Tables/AgePercentage.png'> 
     <img src='./Tables/AgePurchasing.png'> 
-
+</p>
 <h2>
     Top Spenders
 </h2>    
@@ -49,6 +48,9 @@
 <h2>
     Most Profitable Items
 </h2>   
+    <p>
+        The item price variance is low for these items, making the number of items sold being the biggest factor in how profitable each item was. 
+    </p>
     <img src='./Tables/TopPurchaseValue.png'> 
  </h2>   
     
