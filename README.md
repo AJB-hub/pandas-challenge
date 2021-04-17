@@ -49,9 +49,10 @@
     Most Profitable Items
 </h2>   
     <p>
-        The item price variance is low for these items, making the number of items sold being the biggest factor in how profitable each item was. 
+        The item price variance is low for these items, making the number of purchases the most important factor in raising revenue. If we assume more players means more purchases then focusing on raising and maintaining the player count should be our goal, with limitations placed by cost of operation to maintain profit. 
+        <img src='./Tables/TopPurchaseValue.png'> 
     </p>
-    <img src='./Tables/TopPurchaseValue.png'> 
- </h2>   
+    
+   
     
 </html>
