@@ -4,6 +4,7 @@
 
 <h2>
     Player Count
+</h2>
 <p>
     Heroes of Pymoli has 576 players which use the in-game Marketplace.
     </p>
